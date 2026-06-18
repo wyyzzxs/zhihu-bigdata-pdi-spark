@@ -1,0 +1,6 @@
+pyspark
+flask
+gunicorn
+python-dotenv
+wordcloud
+pillow
