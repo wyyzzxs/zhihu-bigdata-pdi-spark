@@ -8,3 +8,4 @@ webapp/static/img/*.png
 drivers/*.jar
 *.log
 .DS_Store
+*.bak.*
